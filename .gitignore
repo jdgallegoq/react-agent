@@ -173,3 +173,4 @@ cython_debug/
 # DB Browser for SQLite
 *.db
 *.sqlite
+*.db*
